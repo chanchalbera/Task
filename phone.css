@@ -1,0 +1,15 @@
+
+  @media screen and (max-width: 480px) {
+    input,
+    select {
+      font-size: 14px;
+    }
+    
+    input[type="submit"] {
+      padding: 10px 20px;
+    }
+    #container{
+        height: 100%;
+    }
+  }
+  
